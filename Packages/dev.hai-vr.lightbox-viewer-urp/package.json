@@ -5,10 +5,9 @@
   "unity": "2019.4",
   "description": "URP module of Lightbox Viewer, for use with the Basis Framework",
   "vrchatVersion" : "2022.1.1",
-  "author" : {
-    "name" : "Haï~"
-  },
+  "author" : "Haï~",
   "vpmDependencies": {
+    "dev.hai-vr.lightbox-viewer" : ">=2.4.2-alpha.2 <3.0.0-alpha.0"
   },
   "url" : "https://docs.hai-vr.dev/docs/products/lightbox-viewer/urp",
   "documentationUrl": "https://docs.hai-vr.dev/docs/products/lightbox-viewer/urp",
