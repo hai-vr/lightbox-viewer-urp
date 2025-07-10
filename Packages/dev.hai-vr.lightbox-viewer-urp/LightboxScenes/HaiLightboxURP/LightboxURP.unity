@@ -802,9 +802,21 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 131966991}
     m_Modifications:
+    - target: {fileID: 1133098678499104850, guid: 02c2cdac807bcc543bb6f6a8c486bf49, type: 3}
+      propertyPath: m_BoxSize.x
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1133098678499104850, guid: 02c2cdac807bcc543bb6f6a8c486bf49, type: 3}
+      propertyPath: m_BoxSize.y
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1133098678499104850, guid: 02c2cdac807bcc543bb6f6a8c486bf49, type: 3}
+      propertyPath: m_BoxSize.z
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 1133098679336180628, guid: 02c2cdac807bcc543bb6f6a8c486bf49, type: 3}
       propertyPath: m_Text
-      value: "Coffee\n<color=#000000>(\U0001F6C7\U0001F6C7\U0001F6C7No Light Volume)</color>"
+      value: Coffee
       objectReference: {fileID: 0}
     - target: {fileID: 1133098679336180628, guid: 02c2cdac807bcc543bb6f6a8c486bf49, type: 3}
       propertyPath: m_Color.b
@@ -1103,10 +1115,21 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1054154146}
     m_Modifications:
+    - target: {fileID: 1133098678499104850, guid: 02c2cdac807bcc543bb6f6a8c486bf49, type: 3}
+      propertyPath: m_BoxSize.x
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1133098678499104850, guid: 02c2cdac807bcc543bb6f6a8c486bf49, type: 3}
+      propertyPath: m_BoxSize.y
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1133098678499104850, guid: 02c2cdac807bcc543bb6f6a8c486bf49, type: 3}
+      propertyPath: m_BoxSize.z
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 1133098679336180628, guid: 02c2cdac807bcc543bb6f6a8c486bf49, type: 3}
       propertyPath: m_Text
-      value: "Cold Bloom\n<color=#000000>(\U0001F6C7\U0001F6C7\U0001F6C7No Light
-        Volume)</color>"
+      value: Cold Bloom
       objectReference: {fileID: 0}
     - target: {fileID: 1133098679336180628, guid: 02c2cdac807bcc543bb6f6a8c486bf49, type: 3}
       propertyPath: m_Color.b
@@ -1190,6 +1213,18 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1184412292}
     m_Modifications:
+    - target: {fileID: 1133098678499104850, guid: 02c2cdac807bcc543bb6f6a8c486bf49, type: 3}
+      propertyPath: m_BoxSize.x
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1133098678499104850, guid: 02c2cdac807bcc543bb6f6a8c486bf49, type: 3}
+      propertyPath: m_BoxSize.y
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1133098678499104850, guid: 02c2cdac807bcc543bb6f6a8c486bf49, type: 3}
+      propertyPath: m_BoxSize.z
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 1133098679336180628, guid: 02c2cdac807bcc543bb6f6a8c486bf49, type: 3}
       propertyPath: m_Text
       value: White
@@ -1726,6 +1761,18 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1892715863}
     m_Modifications:
+    - target: {fileID: 1133098678499104850, guid: 02c2cdac807bcc543bb6f6a8c486bf49, type: 3}
+      propertyPath: m_BoxSize.x
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1133098678499104850, guid: 02c2cdac807bcc543bb6f6a8c486bf49, type: 3}
+      propertyPath: m_BoxSize.y
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1133098678499104850, guid: 02c2cdac807bcc543bb6f6a8c486bf49, type: 3}
+      propertyPath: m_BoxSize.z
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 1133098679336180628, guid: 02c2cdac807bcc543bb6f6a8c486bf49, type: 3}
       propertyPath: m_Text
       value: 'Real Time Lights
@@ -2125,6 +2172,18 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1058952199}
     m_Modifications:
+    - target: {fileID: 1133098678499104850, guid: 02c2cdac807bcc543bb6f6a8c486bf49, type: 3}
+      propertyPath: m_BoxSize.x
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1133098678499104850, guid: 02c2cdac807bcc543bb6f6a8c486bf49, type: 3}
+      propertyPath: m_BoxSize.y
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1133098678499104850, guid: 02c2cdac807bcc543bb6f6a8c486bf49, type: 3}
+      propertyPath: m_BoxSize.z
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 1133098679336180628, guid: 02c2cdac807bcc543bb6f6a8c486bf49, type: 3}
       propertyPath: m_Text
       value: Black
@@ -3714,9 +3773,9 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 4294967295
   lowestSubdivLevelOverride: 0
-  highestSubdivLevelOverride: 7
+  highestSubdivLevelOverride: 3
   overridesSubdivLevels: 0
-  mightNeedRebaking: 0
+  mightNeedRebaking: 1
   cachedTransform:
     e00: 1
     e01: 0
@@ -3889,6 +3948,18 @@ PrefabInstance:
     - target: {fileID: 1133098678499104850, guid: 02c2cdac807bcc543bb6f6a8c486bf49, type: 3}
       propertyPath: m_FarClip
       value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 1133098678499104850, guid: 02c2cdac807bcc543bb6f6a8c486bf49, type: 3}
+      propertyPath: m_BoxSize.x
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1133098678499104850, guid: 02c2cdac807bcc543bb6f6a8c486bf49, type: 3}
+      propertyPath: m_BoxSize.y
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1133098678499104850, guid: 02c2cdac807bcc543bb6f6a8c486bf49, type: 3}
+      propertyPath: m_BoxSize.z
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 1133098678499104850, guid: 02c2cdac807bcc543bb6f6a8c486bf49, type: 3}
       propertyPath: m_Resolution
@@ -4100,6 +4171,18 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1337470203}
     m_Modifications:
+    - target: {fileID: 1133098678499104850, guid: 02c2cdac807bcc543bb6f6a8c486bf49, type: 3}
+      propertyPath: m_BoxSize.x
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1133098678499104850, guid: 02c2cdac807bcc543bb6f6a8c486bf49, type: 3}
+      propertyPath: m_BoxSize.y
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1133098678499104850, guid: 02c2cdac807bcc543bb6f6a8c486bf49, type: 3}
+      propertyPath: m_BoxSize.z
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 1133098679336180628, guid: 02c2cdac807bcc543bb6f6a8c486bf49, type: 3}
       propertyPath: m_Text
       value: Spotlight Cookie
@@ -4347,13 +4430,25 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 885931468}
     m_Modifications:
+    - target: {fileID: 1133098678499104850, guid: 02c2cdac807bcc543bb6f6a8c486bf49, type: 3}
+      propertyPath: m_BoxSize.x
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1133098678499104850, guid: 02c2cdac807bcc543bb6f6a8c486bf49, type: 3}
+      propertyPath: m_BoxSize.y
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1133098678499104850, guid: 02c2cdac807bcc543bb6f6a8c486bf49, type: 3}
+      propertyPath: m_BoxSize.z
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 1133098679199322638, guid: 02c2cdac807bcc543bb6f6a8c486bf49, type: 3}
       propertyPath: m_PresetInfoIsWorld
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1133098679336180628, guid: 02c2cdac807bcc543bb6f6a8c486bf49, type: 3}
       propertyPath: m_Text
-      value: "Pink\n<color=#000000>(\U0001F6C7\U0001F6C7\U0001F6C7No Light Volume)</color>"
+      value: Pink
       objectReference: {fileID: 0}
     - target: {fileID: 1133098679336180628, guid: 02c2cdac807bcc543bb6f6a8c486bf49, type: 3}
       propertyPath: m_Color.b
