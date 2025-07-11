@@ -1,7 +1,7 @@
 {
   "name": "dev.hai-vr.lightbox-viewer-urp",
   "displayName": "Haï ~ Lightbox Viewer URP for the Basis Framework",
-  "version": "1.0.0-alpha.4",
+  "version": "1.0.0-alpha.5",
   "unity": "6000.0",
   "description": "URP module of Lightbox Viewer, for use with the Basis Framework",
   "author" : "Haï~",
