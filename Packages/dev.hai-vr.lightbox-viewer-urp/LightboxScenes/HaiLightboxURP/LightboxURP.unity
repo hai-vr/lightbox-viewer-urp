@@ -1484,7 +1484,7 @@ MonoBehaviour:
   lowestSubdivLevelOverride: 0
   highestSubdivLevelOverride: 0
   overridesSubdivLevels: 1
-  mightNeedRebaking: 1
+  mightNeedRebaking: 0
   cachedTransform:
     e00: 1
     e01: 0
@@ -1502,8 +1502,8 @@ MonoBehaviour:
     e31: 0
     e32: 0
     e33: 1
-  cachedHashCode: 1131981920
-  fillEmptySpaces: 0
+  cachedHashCode: -203216735
+  fillEmptySpaces: 1
 --- !u!1 &563722049
 GameObject:
   m_ObjectHideFlags: 1
@@ -1790,7 +1790,7 @@ Transform:
   m_GameObject: {fileID: 607917341}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: -30, y: 0, z: -20}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -2147,7 +2147,7 @@ MonoBehaviour:
   lowestSubdivLevelOverride: 0
   highestSubdivLevelOverride: 0
   overridesSubdivLevels: 1
-  mightNeedRebaking: 1
+  mightNeedRebaking: 0
   cachedTransform:
     e00: 1
     e01: 0
@@ -2165,8 +2165,8 @@ MonoBehaviour:
     e31: 0
     e32: 0
     e33: 1
-  cachedHashCode: 1333172890
-  fillEmptySpaces: 0
+  cachedHashCode: 876712715
+  fillEmptySpaces: 1
 --- !u!1 &690784105
 GameObject:
   m_ObjectHideFlags: 0
@@ -2785,8 +2785,8 @@ MonoBehaviour:
     e31: 0
     e32: 0
     e33: 1
-  cachedHashCode: 1259510426
-  fillEmptySpaces: 0
+  cachedHashCode: 803050251
+  fillEmptySpaces: 1
 --- !u!1 &908961872
 GameObject:
   m_ObjectHideFlags: 0
@@ -3237,8 +3237,8 @@ MonoBehaviour:
     e31: 0
     e32: 0
     e33: 1
-  cachedHashCode: -127357856
-  fillEmptySpaces: 0
+  cachedHashCode: -1462556511
+  fillEmptySpaces: 1
 --- !u!1001 &1052707450
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4174,8 +4174,8 @@ MonoBehaviour:
     e31: 0
     e32: 0
     e33: 1
-  cachedHashCode: -776562022
-  fillEmptySpaces: 0
+  cachedHashCode: -1233022197
+  fillEmptySpaces: 1
 --- !u!1001 &1247580268
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4687,8 +4687,8 @@ MonoBehaviour:
     e31: 0
     e32: 0
     e33: 1
-  cachedHashCode: -734021167
-  fillEmptySpaces: 0
+  cachedHashCode: -2069171154
+  fillEmptySpaces: 1
 --- !u!4 &1387863935
 Transform:
   m_ObjectHideFlags: 0
@@ -6302,8 +6302,8 @@ MonoBehaviour:
     e31: 0
     e32: 0
     e33: 1
-  cachedHashCode: 1829494931
-  fillEmptySpaces: 0
+  cachedHashCode: -1874277948
+  fillEmptySpaces: 1
 --- !u!1 &2109770371
 GameObject:
   m_ObjectHideFlags: 0
@@ -6360,7 +6360,7 @@ MonoBehaviour:
   lowestSubdivLevelOverride: 0
   highestSubdivLevelOverride: 0
   overridesSubdivLevels: 1
-  mightNeedRebaking: 1
+  mightNeedRebaking: 0
   cachedTransform:
     e00: 1
     e01: 0
@@ -6378,8 +6378,8 @@ MonoBehaviour:
     e31: 0
     e32: 0
     e33: 1
-  cachedHashCode: 204254304
-  fillEmptySpaces: 0
+  cachedHashCode: -1130944351
+  fillEmptySpaces: 1
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
